@@ -1,5 +1,5 @@
 📚 LibraryBookManagement
-LibraryBookManagement is a simple Java-based console application designed to simulate a basic library system.
+is a simple Java-based console application designed to simulate a basic library system.
 It allows students to register, log in using their admission numbers, view available books, and issue books from the library.
 The project uses concepts like Interfaces, Abstract Classes, OOP (Object-Oriented Programming) principles, and arrays for storing student and book data.
 
